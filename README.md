@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dwarakesh011
-- 👀 I’m interested in machine learning and artifical intelligence
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on any artificial intelligence models
+- 💞️ I’m looking to collaborate on any nlp models
 - 📫 You can contact me on instagram at dwarakesh011
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I love art too, and im a fairly skilled blender user
+- ⚡ Fun fact: I love blender and photoshop
